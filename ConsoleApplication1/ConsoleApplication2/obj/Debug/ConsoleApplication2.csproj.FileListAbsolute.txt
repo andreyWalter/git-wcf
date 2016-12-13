@@ -1,0 +1,5 @@
+c:\users\mycredit\documents\visual studio 15\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\mycredit\documents\visual studio 15\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\mycredit\documents\visual studio 15\Projects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\mycredit\documents\visual studio 15\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\mycredit\documents\visual studio 15\Projects\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
